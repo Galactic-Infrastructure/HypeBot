@@ -1,0 +1,2 @@
+phosphoribosyltransferase,363
+methylenetetrahydrofolate,269
