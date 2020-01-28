@@ -1,0 +1,37 @@
+# pyc files
+/**/*.pyc
+
+build/
+dist/
+*.egg-info
+__pycache__
+
+# Virtualenv
+/venv/
+/env/
+
+# pyenv
+.python-version
+
+# Ansible retry files
+/**/*.retry
+/**/*.log
+
+# Ansible deploy keys
+/ansible/files/gph19_deploy_key
+
+# Vagrant metadata
+.vagrant
+
+# pid files
+/**/*.pid
+
+# MacOS generated files
+.DS_Store
+
+dump.rdb
+
+*.swn
+*.swo
+*.swp
+\.vscode/

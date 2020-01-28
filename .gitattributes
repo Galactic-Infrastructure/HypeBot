@@ -1,0 +1,5 @@
+data/vectors/english.npy filter=lfs diff=lfs merge=lfs -text
+data/wordlists/wordfreq-1.6-en.txt filter=lfs diff=lfs merge=lfs -text
+data/corpora/*.txt filter=lfs diff=lfs merge=lfs -text
+data/wordlists/ukacd17.txt filter=lfs diff=lfs merge=lfs -text
+data/wordlists/corncob.txt filter=lfs diff=lfs merge=lfs -text

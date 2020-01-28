@@ -1,0 +1,12 @@
+beautifulsoup4
+discord
+grilops
+natsort
+nltk
+pandas
+pyyaml
+requests
+tqdm
+unidecode
+whoosh
+wordfreq
